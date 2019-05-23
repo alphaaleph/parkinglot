@@ -1,0 +1,75 @@
+EXAMPLE RESULT FROM RUN:
+
+
+╚═══[$]>  ./parkinglot 
+
+-- Number of motorcycle spots available: 16
+-- Number of compact spots available: 20
+-- Number of large spots available: 15
+
+Motorcycle with plate: FPLLNG parked on floor: 1, row 1, spot: 105
+Motorcycle with plate: 6KTSWA parked on floor: 1, row 1, spot: 102
+Motorcycle with plate: WHS3WF parked on floor: 1, row 1, spot: 109
+
+-- Number of motorcycle spots available: 13
+-- Number of compact spots available: 20
+-- Number of large spots available: 15
+
+Bus with plate: OFY7ES parked on floor: 1, row: 3, starting at spot: 123 for 5 consecutive spaces
+
+-- Number of motorcycle spots available: 13
+-- Number of compact spots available: 20
+-- Number of large spots available: 10
+
+Car with plate: X1NGIB parked on floor: 1, row 2, spot: 117
+Car with plate: LWBYKI parked on floor: 2, row 1, spot: 202
+Car with plate: 9E67RI parked on floor: 1, row 2, spot: 118
+Car with plate: NRBSBE parked on floor: 2, row 1, spot: 204
+Car with plate: PWPURD parked on floor: 1, row 2, spot: 113
+Car with plate: HFX87P parked on floor: 1, row 2, spot: 122
+Car with plate: 5JSICF parked on floor: 1, row 2, spot: 114
+Car with plate: GMARUB parked on floor: 2, row 1, spot: 209
+Car with plate: MPYOYH parked on floor: 2, row 1, spot: 203
+Car with plate: RY2I71 parked on floor: 2, row 1, spot: 208
+Car with plate: 49AU7P parked on floor: 1, row 2, spot: 121
+Car with plate: DYA8JL parked on floor: 1, row 2, spot: 119
+Car with plate: VALLVL parked on floor: 2, row 1, spot: 205
+Car with plate: 54GGXE parked on floor: 2, row 1, spot: 206
+Car with plate: GRUPML parked on floor: 2, row 1, spot: 207
+Car with plate: 53FMW2 parked on floor: 1, row 2, spot: 120
+Car with plate: D8OWVA parked on floor: 1, row 2, spot: 116
+Car with plate: 1RXN66 parked on floor: 2, row 1, spot: 201
+Car with plate: QV0CXR parked on floor: 1, row 2, spot: 115
+Car with plate: Y6LVKQ parked on floor: 2, row 1, spot: 210
+Car with plate: DRZH4T parked on floor: 2, row 2, spot: 221
+Car with plate: JJ8AIW parked on floor: 2, row 2, spot: 216
+Car with plate: 9L3QQZ parked on floor: 2, row 2, spot: 219
+Car with plate: I5OJNZ parked on floor: 2, row 2, spot: 218
+Car with plate: SFHJGO parked on floor: 2, row 2, spot: 217
+Car with plate: 5V1SSG parked on floor: 2, row 2, spot: 220
+
+-- Number of motorcycle spots available: 13
+-- Number of compact spots available: 0
+-- Number of large spots available: 4
+
+Motorcycle with plate: CIZ02U parked on floor: 1, row 1, spot: 106
+Motorcycle with plate: 23ATG6 parked on floor: 1, row 1, spot: 111
+Motorcycle with plate: YW1MY0 parked on floor: 1, row 1, spot: 107
+Motorcycle with plate: DRW4IW parked on floor: 2, row 2, spot: 212
+Motorcycle with plate: XMMHFZ parked on floor: 1, row 1, spot: 104
+
+-- Number of motorcycle spots available: 8
+-- Number of compact spots available: 0
+-- Number of large spots available: 4
+
+No Spot Available for a Bus
+
+-- Number of motorcycle spots available: 8
+-- Number of compact spots available: 0
+-- Number of large spots available: 4
+
+12 vehicles left
+
+-- Number of motorcycle spots available: 12
+-- Number of compact spots available: 6
+-- Number of large spots available: 6
